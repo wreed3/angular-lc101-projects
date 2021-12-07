@@ -1,0 +1,14 @@
+.chores
+ {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.7vw;
+  color: purple;
+ }
+
+ h3{
+   text-decoration: underline;
+ }
+
+ li {
+   font-style:italic;
+ }

@@ -4,8 +4,12 @@ h3 {
 
 img {
 
+  width: 20%;
+  height: auto;
+
 }
 
 .photos {
    text-align: center;
+   border:;
 }
